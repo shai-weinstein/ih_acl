@@ -1,0 +1,5 @@
+name = IH ACL
+description = IH ACL limit admin/ip
+version = "7.x-1.0"
+core = "7.x"
+project = "ih"
